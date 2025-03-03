@@ -7,8 +7,8 @@ Investigated national childcare costs and affordability using Tableau.
 - Python (Pandas)
 
 ## Files in this Repository
-- `childcare_analysis.twbx` - Tableau dashboard
-- `childcare_prices.csv` - Dataset on childcare costs
+- `Final Milestone.doc` - Final milestone paper
+- `nationaldatabaseofchildcare.csv` - Dataset on childcare costs (too large to upload)
 
 ## Key Findings
 - Childcare prices are highest in urban areas.
