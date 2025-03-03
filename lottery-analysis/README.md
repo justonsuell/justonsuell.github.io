@@ -7,9 +7,10 @@ Built an interactive data visualization exploring lottery trends and number patt
 - Tableau
 
 ## Files in this Repository
-- `lottery_analysis.ipynb` - Data exploration notebook
-- `lottery_visualization.twbx` - Tableau dashboard
-- `lottery_data.csv` - Dataset of lottery results
+- `Juston_Suell_DSC640_Assignment_Final.pdf` - Data exploration
+- `cleaned_powerball_data.csv` - Dataset of powerball results
+- `cleaned_mega_millions_data.csv` - Dataset of Mega millions results
+- `cleaned_pick_10_data.csv` - Dataset of pick 10 results
 
 ## Key Findings
 - Certain numbers appeared more frequently in historical draws.
