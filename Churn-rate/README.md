@@ -6,7 +6,7 @@ Built predictive models to assess and mitigate customer churn risks.
 - Python (Scikit-learn, Pandas, Seaborn)
 
 ## Files in this Repository
-- `churn_analysis.ipynb` - Data processing and modeling
+- `Suell Final project DSC630 - Customer churn.ipynb` - Data processing and modeling
 - `customer_churn.csv` - Dataset of customer transactions
 
 ## Key Findings
