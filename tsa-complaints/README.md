@@ -7,7 +7,7 @@ Analyzed TSA complaints to identify patterns and trends in passenger grievances.
 - Jupyter Notebook
 
 ## Files in this Repository
-- `tsa_analysis.ipynb` - Data analysis notebook
+- `tsa_analysis.pdf` - Data analysis 
 - `tsa_complaints.csv` - Dataset of TSA complaints
 
 ## Key Findings
