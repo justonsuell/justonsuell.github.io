@@ -6,7 +6,7 @@ Developed a machine learning model to predict NFL winners based on historical da
 - Python (Scikit-learn, Pandas, Matplotlib)
 
 ## Files in this Repository
-- `nfl_predictions.ipynb` - Model training and evaluation
+- Milestone 2 Code Suell.pdf - Model training and evaluation code
 - `nfl_game_data.csv` - Historical NFL game data
 
 ## Key Findings
