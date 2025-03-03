@@ -6,8 +6,7 @@ Applied machine learning algorithms to detect fraudulent transactions.
 - Python (Scikit-learn, Pandas, XGBoost)
 
 ## Files in this Repository
-- `fraud_detection.ipynb` - Model training and evaluation
-- `fraud_transactions.csv` - Dataset of fraudulent and non-fraudulent transactions
+- `Suell Week 5.docx` - Research paper regarding the topic
 
 ## Key Findings
 - Transaction patterns helped flag high-risk behavior.
