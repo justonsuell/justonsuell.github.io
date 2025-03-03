@@ -7,7 +7,7 @@ Examined key factors that impact a movie’s box office revenue.
 
 ## Files in this Repository
 - `box_office_analysis.ipynb` - Data analysis notebook
-- `movies_metadata.csv` - Dataset on movie revenues
+- `Final Project 1 code .ipynb` - Code of my project
 
 ## Key Findings
 - Budget size correlated strongly with box office earnings.
