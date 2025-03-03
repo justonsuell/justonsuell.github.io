@@ -8,7 +8,7 @@ Investigated national childcare costs and affordability using Tableau.
 
 ## Files in this Repository
 - `Final Milestone.doc` - Final milestone paper
-- `nationaldatabaseofchildcare.csv` - Dataset on childcare costs (too large to upload)
+- `Milestone_3.pptx` - Final milestone powerpoint (visuals included)
 
 ## Key Findings
 - Childcare prices are highest in urban areas.
